@@ -1,0 +1,158 @@
+[
+  {
+    "icon": "escalator",
+    "coords": {"x": 101, "y": 260}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 102, "y": 353}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 115, "y": 354}
+  },
+  {
+    "icon": "baby_changing",
+    "coords": {"x": 188, "y": 371}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 175, "y": 360}
+  },
+  {
+    "icon": "escalator",
+    "coords": {"x": 171, "y": 351}
+  },
+  {
+    "icon": "public_transport",
+    "coords": {"x": 207, "y": 383}
+  },
+  {
+    "icon": "escalator",
+    "coords": {"x": 209, "y": 330}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 217, "y": 359}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 258, "y": 367}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 242, "y": 383}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 236, "y": 336}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 167, "y": 304}
+  },
+  {
+    "icon": "customer_services",
+    "coords": {"x": 239, "y": 312}
+  },
+  {
+    "icon": "escalator",
+    "coords": {"x": 253, "y": 301}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 257, "y": 292}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 280, "y": 273}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 233, "y": 264}
+  },
+  {
+    "icon": "baby_changing",
+    "coords": {"x": 205, "y": 233}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 164, "y": 259}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 134, "y": 263}
+  },
+  {
+    "icon": "public_telephone",
+    "coords": {"x": 128, "y": 270}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 342, "y": 299}
+  },
+  {
+    "icon": "baby_changing",
+    "coords": {"x": 367, "y": 284}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 345, "y": 318}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 398, "y": 279}
+  },
+  {
+    "icon": "escalator",
+    "coords": {"x": 322, "y": 246}
+  },
+  {
+    "icon": "escalator",
+    "coords": {"x": 372, "y": 216}
+  },
+  {
+    "icon": "toilets",
+    "coords": {"x": 378, "y": 206}
+  },
+  {
+    "icon": "escalator",
+    "coords": {"x": 405, "y": 192}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 390, "y": 183}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 435, "y": 206}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 437, "y": 227}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 464, "y": 217}
+  },
+  {
+    "icon": "baby_changing",
+    "coords": {"x": 460, "y": 192}
+  },
+  {
+    "icon": "cash_machine",
+    "coords": {"x": 447, "y": 187}
+  },
+  {
+    "icon": "elevator",
+    "coords": {"x": 376, "y": 164}
+  },
+  {
+    "icon": "parking",
+    "coords": {"x": 363, "y": 170}
+  },
+  {
+    "icon": "shopmobility",
+    "coords": {"x": 348, "y": 167}
+  }
+]
